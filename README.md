@@ -1,4 +1,4 @@
-# VirtualMaster Play store D escription
+# VirtualMaster Play store Description
 Virtual Master runs another Android System on your device, based on our Android on Android Virtualization Technology.
 
 With Virtual Master, you can have another Android System running on your device, isolated from the Android System of your device.
@@ -20,3 +20,5 @@ Just like bringing the emulators such as Bluestacks and Nox to your device.
 
 3. Support Vulkan
 We support Vulkan in the Virtual Android System, so you can run many high-end games smoothly in Virtual Master.
+
+This description copy from Google Play store
